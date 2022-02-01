@@ -1,16 +1,13 @@
-### Hi there 👋
+### Greetings visitor 🖐
 
-<!--
-**harryscodingvault/harryscodingvault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>I am Harry</h1>
 
-Here are some ideas to get you started:
+- 🧙‍♂️ &nbsp; I develop full-stack apps using Python and Javascript.
+- 👨‍💻 &nbsp; Currently studying machine learning technologies.
+- 🤹 &nbsp; Working as a Freelancer, helping small business with web development and marketing solutions.
+- 🚀 &nbsp; Always looking for interesting projects to be part of.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Contact me</h2>
+
+- ✉️ &nbsp; Email: [/harry@harrys.one](mailto:harry@harrys.one)
+- 💼 &nbsp; LinkedIn: [/harolddf](https://www.linkedin.com/in/harolddf/)
