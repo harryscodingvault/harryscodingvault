@@ -10,4 +10,4 @@
 <h2>Contact me</h2>
 
 - ✉️ &nbsp; Email: [/harry@harrys.one](mailto:harry@harrys.one)
-- 💼 &nbsp; LinkedIn: [/harolddf](https://www.linkedin.com/in/harolddf/)
+- 💼 &nbsp; LinkedIn: [/haroldrod](https://www.linkedin.com/in/haroldrod/)
