@@ -3,7 +3,7 @@
 <h1>I am Harry</h1>
 
 - 🧙‍♂️ &nbsp; I develop full-stack apps using Python and Javascript.
-- 👨‍💻 &nbsp; Currently studying machine learning technologies.
+- 👨‍💻 &nbsp; Currently completing Thinkful Software Engineering Bootcamp.
 - 🤹 &nbsp; Working as a Freelancer, helping small business with web development and marketing solutions.
 - 🚀 &nbsp; Always looking for interesting projects to be part of.
 
