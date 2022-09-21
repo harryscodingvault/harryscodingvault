@@ -3,8 +3,8 @@
 <h1>I am Harry</h1>
 
 - 🧙‍♂️ &nbsp; I develop full-stack apps using Python and Javascript.
-- 👨‍💻 &nbsp; Currently completing Thinkful Software Engineering Bootcamp.
-- 🤹 &nbsp; Working as a Freelancer, helping small business with web development and marketing solutions.
+- 👨‍💻 &nbsp; Recently graduated from Thinkful Software Engineering Bootcamp.
+- 🤹 &nbsp; Experience with ReactJS, NodeJS, Django, Flask, PostgreSQL and MongoDB.
 - 🚀 &nbsp; Always looking for interesting projects to be part of.
 
 <h2>Contact me</h2>
