@@ -1,13 +1,14 @@
 ### Greetings visitor 🖐
 
-<h1>I am Harry</h1>
+<h1>Welcome! I'm Harry.</h1>
 
-- 🧙‍♂️ &nbsp; I develop full-stack apps using Python and Javascript.
-- 👨‍💻 &nbsp; Recently graduated from Thinkful Software Engineering Bootcamp.
-- 🤹 &nbsp; Experience with ReactJS, NodeJS, Django, Flask, PostgreSQL and MongoDB.
-- 🚀 &nbsp; Always looking for interesting projects to be part of.
+I'm a Software Engineer. My journey has taken me from empowering small businesses to enhancing educational institutions, always ensuring the delivery of tailored, impactful software solutions.
 
-<h2>Contact me</h2>
+- 🤹 &nbsp; Skilled in a variety of technologies, including AWS, ReactJS, VueJS, NextJS, ExpressJS, Django, Flask, PostgreSQL, and MongoDB.
+- 🚀 &nbsp; Eager to tackle interesting projects and contribute to innovative solutions.
 
-- ✉️ &nbsp; Email: [/harry@harrys.one](mailto:harry@harrys.one)
+<h2>Let's Connect!</h2>
+
+- ✉️ &nbsp; Email: [/me@harrys.codes](mailto:me@harrys.codes)
 - 💼 &nbsp; LinkedIn: [/haroldrod](https://www.linkedin.com/in/haroldrod/)
+
